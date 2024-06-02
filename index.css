@@ -1,0 +1,18 @@
+.card-header{
+    background-color: black;
+    
+    text-align: center;
+}
+
+.card-body{
+    background-color: cornsilk;
+    text-align: center;
+    color:black;
+}
+
+.img-fluid{
+    padding:20px;
+    background-color: cornsilk;
+    height:192px;
+    width: 286px;
+}
